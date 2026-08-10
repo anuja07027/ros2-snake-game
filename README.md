@@ -43,3 +43,13 @@ The project demonstrates how ROS 2 can be integrated with a graphical Python app
      |            |
      v            v
 /snake/score   /snake/status
+
+## Project Demo
+
+### Gameplay
+
+![ROS 2 Snake Game](snake-gameplay.jpeg)
+
+### Game Over
+
+![ROS 2 Snake Game - Game Over](snake-game-over.jpeg)
