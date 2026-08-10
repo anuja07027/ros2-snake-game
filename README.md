@@ -43,6 +43,7 @@ The project demonstrates how ROS 2 can be integrated with a graphical Python app
      |            |
      v            v
 /snake/score   /snake/status
+```
 
 ## Project Demo
 
