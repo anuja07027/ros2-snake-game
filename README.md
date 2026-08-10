@@ -17,6 +17,22 @@ The project demonstrates how ROS 2 can be integrated with a graphical Python app
 - ROS 2 score publishing
 - ROS 2 game-status publishing
 
+## Project Demo
+
+### Gameplay
+
+![ROS 2 Snake Game](snake-gameplay.jpeg)
+
+### Game Over
+
+![ROS 2 Snake Game - Game Over](snake-game-over.jpeg)
+
+### ROS 2 Topic Communication
+
+The game publishes score and status information through ROS 2 topics.
+
+![ROS 2 Topic Communication](ros2-topic-communication.jpeg)
+
 ## Technologies Used
 
 - ROS 2 Humble
@@ -44,19 +60,3 @@ The project demonstrates how ROS 2 can be integrated with a graphical Python app
      v            v
 /snake/score   /snake/status
 ```
-
-## Project Demo
-
-### Gameplay
-
-![ROS 2 Snake Game](snake-gameplay.jpeg)
-
-### Game Over
-
-![ROS 2 Snake Game - Game Over](snake-game-over.jpeg)
-
-### ROS 2 Topic Communication
-
-The game publishes score and status information through ROS 2 topics.
-
-![ROS 2 Topic Communication](ros2-topic-communication.jpeg)
